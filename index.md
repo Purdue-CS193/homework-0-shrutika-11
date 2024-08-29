@@ -16,6 +16,7 @@ my favourite things about cs193!
 - "magic word"
 - the powerpoint slides
 
+
 ```
 markdown
 Syntax highlighted code block
